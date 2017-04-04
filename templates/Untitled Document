@@ -1,5 +1,0 @@
-<html>
-<tittle>Welcome</tittle>
-<br>
-New User <a href="/signup">Sign Up</a><br>
-Already a User<a href="/login">Log In</a>
